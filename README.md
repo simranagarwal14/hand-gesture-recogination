@@ -2,6 +2,7 @@
 
 A real-time Python application that detects hand landmarks, draws MediaPipe-style skeleton visualization, and classifies hand gestures using your webcam.
 
+
 ## ✨ Features
 
 - **Real-time hand tracking** using OpenCV and CVZone
